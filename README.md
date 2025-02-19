@@ -43,11 +43,9 @@ The **Automated Interview Analyzer** is an AI-driven system that:
     E -->|Final Report| F[Web UI/API Response]
 
 
-    <h2>🚀 Future Enhancements</h2>
-<ul>
-  <li>🌍 <b>Multi-Language Support</b> – Expand beyond English for global accessibility.</li>
-  <li>😊 <b>Real-time Emotion Detection</b> – Detect emotions from voice tone and text.</li>
-  <li>📄 <b>AI-driven Resume Suggestions</b> – Provide resume insights and recommendations.</li>
-  <li>🔗 <b>Integration with HR Platforms</b> – Seamless connection with hiring tools.</li>
-</ul>
+## 🚀 Future Enhancements  
 
+🔹 **Multi-Language Support** – Expand support for languages beyond English.  
+🔹 **Real-time Emotion Detection** – Implement AI to analyze emotions during interviews.  
+🔹 **AI-driven Resume Suggestions** – Provide personalized resume feedback based on responses.  
+🔹 **Integration with HR Platforms** – Connect with tools like Workday, Greenhouse, or Lever.  
