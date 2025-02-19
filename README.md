@@ -41,3 +41,13 @@ The **Automated Interview Analyzer** is an AI-driven system that:
     C -->|NLP Processing| D[Sentiment & Keyword Analysis]
     D -->|AI Insights| E[GPT-4 Feedback]
     E -->|Final Report| F[Web UI/API Response]
+
+
+    <h2>🚀 Future Enhancements</h2>
+<ul>
+  <li>🌍 <b>Multi-Language Support</b> – Expand beyond English for global accessibility.</li>
+  <li>😊 <b>Real-time Emotion Detection</b> – Detect emotions from voice tone and text.</li>
+  <li>📄 <b>AI-driven Resume Suggestions</b> – Provide resume insights and recommendations.</li>
+  <li>🔗 <b>Integration with HR Platforms</b> – Seamless connection with hiring tools.</li>
+</ul>
+
