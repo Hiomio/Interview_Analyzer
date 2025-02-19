@@ -1,7 +1,7 @@
 # 🎤 Automated Interview Analyzer  
 > AI-powered tool to analyze interview responses using Speech-to-Text & NLP.  
 
-![Automated Interview Analyzer](https://via.placeholder.com/1000x400?text=Project+Banner)
+![Automated Interview Analyzer]
 
 ---
 
