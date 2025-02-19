@@ -27,6 +27,19 @@ The **Automated Interview Analyzer** is an AI-driven system that:
 ## 🏗 **System Architecture**  
 ```mermaid
 graph TD;
+
+
+## 🛠 Tech Stack & Tools
+
+| Category           | Technologies Used                           |
+|--------------------|--------------------------------------------|
+| **Frontend UI**    | Streamlit, Gradio                         |
+| **Backend API**    | FastAPI, Flask                            |
+| **Speech-to-Text** | Whisper (OpenAI)                          |
+| **NLP & AI**       | GPT-4, spaCy, NLTK, Hugging Face Transformers |
+| **Data Storage**   | PostgreSQL, MongoDB                       |
+| **Deployment**     | AWS, GCP, Docker                          |
+
     A[User Speaks] -->|Audio Input| B(Whisper API)
     B -->|Transcription| C[Text Output]
     C -->|NLP Processing| D[Sentiment & Keyword Analysis]
