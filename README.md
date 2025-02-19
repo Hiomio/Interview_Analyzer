@@ -41,6 +41,16 @@ The **Automated Interview Analyzer** is an AI-driven system that:
     C -->|NLP Processing| D[Sentiment & Keyword Analysis]
     D -->|AI Insights| E[GPT-4 Feedback]
     E -->|Final Report| F[Web UI/API Response]
+    
+## 🚀 Getting Started  
+
+Follow these steps to set up and run the **Automated Interview Analyzer** project:  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/hiomio/automated-interview-analyzer.git  
+cd automated-interview-analyzer  
+
 
 
 ## 🚀 Future Enhancements  
