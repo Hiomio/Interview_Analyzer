@@ -24,10 +24,6 @@ The **Automated Interview Analyzer** is an AI-driven system that:
 
 ---
 
-## 🏗 **System Architecture**  
-```mermaid
-graph TD;
-
 
 ## 🛠 Tech Stack & Tools
 
